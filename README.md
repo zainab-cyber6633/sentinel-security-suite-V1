@@ -52,7 +52,7 @@ This project was developed as a learning project to practice Python programming,
 ```text
 Sentinel-Security-Suite/
 │
-├── main.py
+├── sentinel.py
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
