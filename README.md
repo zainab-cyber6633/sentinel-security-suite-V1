@@ -3,11 +3,11 @@
 </p>
 
 
-<h1 align="center">🛡️ Sentinel Security Suite</h1>
-
 <p align="center">
 A lightweight command-line cybersecurity toolkit built with Python.
 </p>
+
+Version 1.0 • Version 2.0 – In Development
 
 _________
 
