@@ -1,20 +1,14 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Sentinel Security Suite Logo" width="220">
+  <img src="./assets/logo.png" alt="Sentinel Security Suite Logo" width="220">
 </p>
 
 <h1 align="center">🛡️ Sentinel Security Suite</h1>
 
 <p align="center">
-  A lightweight command-line cybersecurity toolkit built with Python for network reconnaissance and information gathering.
+A lightweight command-line cybersecurity toolkit built with Python.
 </p>
 
-<p align="center">
-  <strong>Version 1.0</strong> • 🚧 <strong>Version 2.0 – In Development</strong>
-</p>
-
----
-
-
+_________
 
 
 
