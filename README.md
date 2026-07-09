@@ -160,6 +160,44 @@ Interested in:
 - Python Automation
 
 ---
+---
+
+# Screenshots
+
+## Main Menu
+
+![Main Menu](assets/menu.png)
+
+---
+
+## Ping Host
+
+![Ping](assets/ping.png)
+
+---
+
+## DNS Lookup
+
+![DNS Lookup](assets/dns.png)
+
+---
+
+## WHOIS Lookup
+
+![WHOIS Lookup](assets/whois.png)
+
+---
+
+## Port Scanner
+
+![Port Scanner](assets/portscanner.png)
+
+---
+
+## Banner Grabber
+
+![Banner Grabber](assets/banner.png)
+
 
 # License
 
