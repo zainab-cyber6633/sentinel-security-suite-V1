@@ -77,7 +77,7 @@ Sentinel-Security-Suite/
 
 ---
 
-# Installation
+# Installation for linux 
 
 ## Clone the repository
 
@@ -100,9 +100,23 @@ pip install -r requirements.txt
 Run the project
 
 ```bash
-python main.py
+python sentinel.py
 ```
+## Installation for windows
 
+git clone https://github.com/zainab-cyber6633/sentinel-security-suite.git
+
+cd sentinel-security-suite
+
+python -m venv .venv
+
+.venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python sentinel.py
+     or 
+ py sentinel.py    
 ---
 
 # Usage
