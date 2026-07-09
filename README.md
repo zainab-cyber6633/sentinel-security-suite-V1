@@ -2,18 +2,23 @@
   <img src="assest/logo.png" alt="Sentinel Security Suite Logo" width="220">
 </p>
 
+<h1 align="center">🛡️ Sentinel Security Suite</h1>
 
 <p align="center">
-A lightweight command-line cybersecurity toolkit built with Python.
+  A lightweight command-line cybersecurity toolkit built with Python for network reconnaissance and information gathering.
 </p>
 
-Version 1.0 • Version 2.0 – In Development
+<p align="center">
+  <strong>Version 1.0</strong> • 🚧 <strong>Version 2.0 – In Development</strong>
+</p>
+
+---
 
 _________
 
 
 
-# 🛡️ Sentinel Security Suite
+#🛡️ Sentinel Security Suite
 
 A lightweight command-line cybersecurity toolkit built with Python for basic network reconnaissance and information gathering.
 
