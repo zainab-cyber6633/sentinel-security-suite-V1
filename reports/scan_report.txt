@@ -1,0 +1,151 @@
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 08:22:59.995228
+
+Ping Result:
+[+] google.com is reachable
+
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:13:00.652342
+
+Banner Grab Result
+------------------------------
+Banner Grab Failed: timed out
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:14:34.727957
+
+Ping Result
+------------------------------
+[+] google.com is reachable
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:15:12.226830
+
+Port Scanner Result
+------------------------------
+Port Scan Result for scanme.nmap.org
+
+[CLOSED] Port 21
+[OPEN] Port 22
+[CLOSED] Port 23
+[CLOSED] Port 25
+[CLOSED] Port 53
+[OPEN] Port 80
+[CLOSED] Port 443
+[CLOSED] Port 8080
+
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:15:29.031514
+
+DNS Lookup Result
+------------------------------
+Domain Name : google.com
+IP Address  : 142.250.202.142
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:16:33.949423
+
+WHOIS Result
+------------------------------
+Domain Name : GOOGLE.COM
+Registrar   : MarkMonitor, Inc.
+Country     : US
+Created     : [datetime.datetime(1997, 9, 15, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=tzoffset('UTC', 0))]
+Expiry      : [datetime.datetime(2028, 9, 14, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=tzoffset('UTC', 0))]
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:17:04.056626
+
+Banner Grab Result
+------------------------------
+Banner Grab Failed: timed out
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:18:49.980300
+
+Banner Grab Result
+------------------------------
+Banner Grab Failed: [Errno 11001] getaddrinfo failed
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:20:46.863163
+
+Banner Grab Result
+------------------------------
+Banner Grab Failed: [Errno 11001] getaddrinfo failed
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:21:54.055830
+
+Banner Grab Result
+------------------------------
+Target : scanme.nmap.org
+Port   : 80
+
+Banner:
+HTTP/1.1 200 OK
+Date: Thu, 09 Jul 2026 16:21:53 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+
+
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:25:41.327811
+
+Ping Result
+------------------------------
+[+] youtube.com is reachable
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:36:22.186884
+
+Ping Result
+------------------------------
+[+] youtube.com is reachable
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 09:44:42.245610
+
+Ping Result
+------------------------------
+
+Pinging youtube.com [142.251.38.14] with 32 bytes of data:
+Reply from 142.251.38.14: bytes=32 time=66ms TTL=113
+
+Ping statistics for 142.251.38.14:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 66ms, Maximum = 66ms, Average = 66ms
+
