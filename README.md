@@ -174,64 +174,10 @@ After each scan, the results are displayed in the terminal and can be saved to t
 - Multi-threaded Port Scanner
 - HTML Reports
 - PDF Reports
-- Colored Terminal Output
+__________
+  # version 2 .........coming soon
 
-🚀 Version 2.0 — Coming Soon
----
-
-# Author
-
-**Zainab Ijaz**
-
-Cybersecurity Enthusiast
-
-Interested in:
-
-- Penetration Testing
-- Red Teaming
-- Network Security
-- Python Automation
-
----
----
-
-# Screenshots
-
-## Main Menu
-
-![Main Menu](assets/menu.png)
-
----
-
-## Ping Host
-
-![Ping](assets/ping.png)
-
----
-
-## DNS Lookup
-
-![DNS Lookup](assets/dns.png)
-
----
-
-## WHOIS Lookup
-
-![WHOIS Lookup](assets/whois.png)
-
----
-
-## Port Scanner
-
-![Port Scanner](assets/portscanner.png)
-
----
-
-## Banner Grabber
-
-![Banner Grabber](assets/banner.png)
-
-
+_________
 # License
 
 This project is licensed under the MIT License.
