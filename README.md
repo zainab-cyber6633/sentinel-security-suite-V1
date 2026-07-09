@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Sentinel Security Suite Logo" width="220">
+  <img src="assets/logo.png" alt="Sentinel Security Suite Logo" width="220">
 </p>
+
 
 <h1 align="center">🛡️ Sentinel Security Suite</h1>
 
