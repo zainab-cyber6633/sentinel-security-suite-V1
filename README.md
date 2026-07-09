@@ -1,39 +1,166 @@
 
 # 🛡️ Sentinel Security Suite
 
-Sentinel Security Suite is a Python-based cybersecurity toolkit designed for learning and practicing network reconnaissance and security analysis. The project is being developed step by step, with each version introducing new features and improvements.
+A lightweight command-line cybersecurity toolkit built with Python for basic network reconnaissance and information gathering.
 
-## Project Goals
+This project was developed as a learning project to practice Python programming, networking concepts, and cybersecurity fundamentals.
 
-* Learn Python through practical cybersecurity projects.
-* Build networking and security analysis tools.
-* Improve problem-solving and automation skills.
-* Create a professional cybersecurity portfolio.
+---
 
-## Version 1 Features
+# Features
 
-* Ping Host
-* Port Scanner
-* DNS Lookup
-* WHOIS Lookup
-* Banner Grabbing
-* Save Scan Results
+- ✅ Ping Host
+- 🌐 DNS Lookup
+- 📄 WHOIS Lookup
+- 🔍 TCP Port Scanner
+- 🖥️ Banner Grabber
+- 📝 Automatic Report Generation
+- 💻 Interactive Command Line Interface
 
-## Project Status
+---
 
-🚧 Currently under development (Version 1.0)
+# Technologies Used
 
-## Technologies
+- Python 3
+- Socket Programming
+- Python WHOIS
+- Subprocess Module
 
-* Python
-* Socket Programming
-* Networking
-* Git & GitHub
+---
 
-## Disclaimer
+# Project Structure
 
-This project is intended for educational purposes and authorized security testing only. Do not use it against systems without proper permission.
+```text
+Sentinel-Security-Suite/
+│
+├── main.py
+├── requirements.txt
+├── LICENSE
+├── README.md
+├── .gitignore
+│
+├── modules/
+│   ├── __init__.py
+│   ├── ping.py
+│   ├── dns_lookup.py
+│   ├── whois_lookup.py
+│   ├── port_scanner.py
+│   ├── banner_grabber.py
+│   └── report.py
+│
+├── reports/
+│   └── scan_report.txt
+│
+├── assets/
+│
+└── docs/
+```
 
-## License
+---
+
+# Installation
+
+## Clone the repository
+
+```bash
+git clone https://github.com/zainab-cyber6633/Sentinel-Security-Suite.git
+```
+
+Enter the project directory
+
+```bash
+cd Sentinel-Security-Suite
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the project
+
+```bash
+python main.py
+```
+
+---
+
+# Usage
+
+Launch the application.
+
+Choose one of the available options:
+
+- Ping Host
+- Port Scanner
+- DNS Lookup
+- WHOIS Lookup
+- Banner Grabber
+
+After each scan, the results are displayed in the terminal and can be saved to the report file.
+
+---
+
+# Sample Features
+
+### Ping Host
+
+- Check whether a host is reachable.
+- Display ping response.
+
+### DNS Lookup
+
+- Resolve a domain name to its IP address.
+
+### WHOIS Lookup
+
+- Retrieve domain registration information.
+
+### Port Scanner
+
+- Scan common TCP ports.
+- Display open and closed ports.
+
+### Banner Grabber
+
+- Attempt to retrieve the service banner from a target host.
+
+### Report Generator
+
+- Save scan results into the `reports/scan_report.txt` file.
+
+---
+
+# Future Improvements
+
+- HTTP Header Analyzer
+- SSL Certificate Checker
+- Reverse DNS Lookup
+- Subdomain Enumeration
+- Multi-threaded Port Scanner
+- HTML Reports
+- PDF Reports
+- Colored Terminal Output
+
+🚀 Version 2.0 — Coming Soon
+---
+
+# Author
+
+**Zainab Ijaz**
+
+Cybersecurity Enthusiast
+
+Interested in:
+
+- Penetration Testing
+- Red Teaming
+- Network Security
+- Python Automation
+
+---
+
+# License
 
 This project is licensed under the MIT License.
