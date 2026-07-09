@@ -149,3 +149,116 @@ Ping statistics for 142.251.38.14:
 Approximate round trip times in milli-seconds:
     Minimum = 66ms, Maximum = 66ms, Average = 66ms
 
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:22:42.388132
+
+Ping Result
+------------------------------
+
+Pinging google.com [142.250.201.110] with 32 bytes of data:
+Reply from 142.250.201.110: bytes=32 time=106ms TTL=114
+
+Ping statistics for 142.250.201.110:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 106ms, Maximum = 106ms, Average = 106ms
+
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:24:35.712172
+
+DNS Lookup Result
+------------------------------
+Domain Name : google.com
+IP Address  : 142.250.202.142
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:25:26.897033
+
+WHOIS Result
+------------------------------
+Domain Name : GOOGLE.COM
+Registrar   : MarkMonitor, Inc.
+Country     : US
+Created     : [datetime.datetime(1997, 9, 15, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=tzoffset('UTC', 0))]
+Expiry      : [datetime.datetime(2028, 9, 14, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=tzoffset('UTC', 0))]
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:26:25.278299
+
+Banner Grab Result
+------------------------------
+Banner Grab Failed: timed out
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:26:38.331290
+
+Banner Grab Result
+------------------------------
+Target : youtube.com
+Port   : 80
+
+Banner:
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Thu, 09 Jul 2026 17:26:37 GMT
+Location: https://youtube.com/
+Content-Length: 0
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:28:13.729232
+
+Port Scanner Result
+------------------------------
+Port Scan Result for scanme.nmap.org
+
+Port 21 Error: [Errno 11001] getaddrinfo failed
+Port 22 Error: [Errno 11001] getaddrinfo failed
+Port 23 Error: [Errno 11001] getaddrinfo failed
+Port 25 Error: [Errno 11001] getaddrinfo failed
+Port 53 Error: [Errno 11001] getaddrinfo failed
+Port 80 Error: [Errno 11001] getaddrinfo failed
+Port 443 Error: [Errno 11001] getaddrinfo failed
+Port 8080 Error: [Errno 11001] getaddrinfo failed
+
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 10:28:47.113645
+
+Port Scanner Result
+------------------------------
+Port Scan Result for youtube.com
+
+[CLOSED] Port 21
+[CLOSED] Port 22
+[CLOSED] Port 23
+[CLOSED] Port 25
+[CLOSED] Port 53
+[OPEN] Port 80
+[OPEN] Port 443
+[CLOSED] Port 8080
+
