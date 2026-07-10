@@ -262,3 +262,20 @@ Port Scan Result for youtube.com
 [OPEN] Port 443
 [CLOSED] Port 8080
 
+
+==================================================
+Sentinel Security Suite Report
+==================================================
+Generated Time: 2026-07-09 12:12:21.744235
+
+Ping Result
+------------------------------
+
+Pinging youtube.com [142.251.37.142] with 32 bytes of data:
+Reply from 142.251.37.142: bytes=32 time=66ms TTL=113
+
+Ping statistics for 142.251.37.142:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 66ms, Maximum = 66ms, Average = 66ms
+
